@@ -1,4 +1,4 @@
-# E-Commerce-Customer-Churn-Prediction-Targeted-Segmentation-Python
+# [Python] E-Commerce Customer Churn Prediction & Analysis
 
 ---
 
